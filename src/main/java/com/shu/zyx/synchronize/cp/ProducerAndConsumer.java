@@ -1,7 +1,8 @@
-package com.shu.zyx.method;
+package com.shu.zyx.synchronize.cp;
 
 /**
- * Created by Administrator on 2018/5/3.
+ * Created by zyx on 2018/5/3.
+ *  采用wait和notify的方法
  */
 public class ProducerAndConsumer {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.shu.zyx.variable;
+package com.shu.zyx.threadlocal;
 
 /**
  * Created by zyx on 2018/5/1.

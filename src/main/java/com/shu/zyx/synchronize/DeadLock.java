@@ -1,4 +1,4 @@
-package com.shu.zyx.method;
+package com.shu.zyx.synchronize;
 
 /**
  * Created by Administrator on 2018/5/3.
